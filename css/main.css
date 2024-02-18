@@ -426,7 +426,7 @@ a {
   -webkit-transform: translateX(-50%);
   -ms-transform: translateX(-50%);
   transform: translateX(-50%);
-  background-image: url(../../img/line-gray.svg);
+  background-image: url(../img/line-gray.svg);
   background-repeat: no-repeat;
 }
 .info__text {
@@ -467,13 +467,13 @@ a {
   align-items: center;
 }
 .info__item--left {
-  background-image: url("../../img/info-1-bg.jpg");
+  background-image: url("../img/info-1-bg.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
 }
 .info__item--right {
-  background-image: url("../../img/info-2-bg.jpg");
+  background-image: url("../img/info-2-bg.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
