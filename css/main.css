@@ -535,7 +535,7 @@ a {
 }
 
 .skateboards {
-  background-image: url("../img/skateboards-bg.jpg");
+  background-image: url("img/skateboards-bg.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left center;
