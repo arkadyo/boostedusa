@@ -656,19 +656,19 @@ a {
   align-items: center;
 }
 .shop__item--1 {
-  background-image: url("../../img/shop-1-bg.jpg");
+  background-image: url("../img/shop-1-bg.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
 }
 .shop__item--2 {
-  background-image: url("../../img/shop-2-bg.jpg");
+  background-image: url("../img/shop-2-bg.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
 }
 .shop__item--3 {
-  background-image: url("../../img/shop-3-bg.jpg");
+  background-image: url("../img/shop-3-bg.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
